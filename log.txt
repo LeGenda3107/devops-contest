@@ -1,0 +1,29 @@
+commit 964325afcf65531227edd7297df1073641ef704f
+Author: LeGenda <151869637+LeGenda3107@users.noreply.github.com>
+Date:   Tue Apr 29 20:44:47 2025 +0300
+
+    some changes
+
+commit 9d1f24e8c4417b25288d3688b6abe3af5179f0d9
+Author: LeGenda <151869637+LeGenda3107@users.noreply.github.com>
+Date:   Tue Apr 29 20:39:15 2025 +0300
+
+    add gitignore
+
+commit a83af655f95cbfaf5700a5f57a62839d68d3ba8d
+Author: LeGenda <151869637+LeGenda3107@users.noreply.github.com>
+Date:   Tue Apr 29 20:28:11 2025 +0300
+
+    add new readme file
+
+commit b5ab924eed4c34091400d191559a28319a8b9d20
+Author: LeGenda <151869637+LeGenda3107@users.noreply.github.com>
+Date:   Tue Apr 29 20:19:49 2025 +0300
+
+    add text
+
+commit e2ddd7751739879d74fd1fd38e8a7578e9498180
+Author: LeGenda <151869637+LeGenda3107@users.noreply.github.com>
+Date:   Tue Apr 29 20:03:24 2025 +0300
+
+    empty
